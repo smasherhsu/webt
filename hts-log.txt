@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Mar 2019 09:39:55 at https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html* +*https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh_TW, en, *" https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html -O1 "C:\My Websites\iCarry" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html* +*https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:40:31	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry//jscdn.appier.net/js/rt-ext/track-ext-a.js (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html)
+09:40:41	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/IV_JCT=%2Fts; path=/ (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/Index.html)
+09:40:41	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Scripts/plugin/owl.carousel/owl.video.play.png (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Scripts/plugin/owl.carousel/owl.carousel.min.css?css=20181023_01)
+09:40:41	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/POST (from https://connect.facebook.net/en_US/fbevents.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/faq.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/gift.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/travel/ta.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/travel/rule.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/case-study.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/ta.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/rule.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/ta.htm (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/one-day-travel/ta.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/one-day-travel/rule.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/knowledge.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/qualification.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+09:40:42	Error: 	"Not Found" (404) at link https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/icarry/Views/Home/rules.html (from https://www.cathaylife.com.tw/ts/web/ext/pages/onlineExclusive/js/goWI.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 100 links scanned, 82 files written (2695320 bytes overall) [2699228 bytes received at 57430 bytes/sec], 81501 bytes transferred using HTTP compression in 2 files, ratio 32%
+(17 errors, 0 warnings, 0 messages)
